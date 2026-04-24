@@ -1,13 +1,6 @@
-# CHIMERA Name
+# ROSA
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+- Lo SCOIATTOLO è simbolo di previdenza, lungimiranza e preparazione (accumulando risorse) per un futuro completamente diverso. È anche considerato messaggiero tra cielo e terra. Alcune volte grazie delle sue ghiande dimenticate qua e là favorisce la crescita di nuovi alberi.
+- Il LUÌ PICCOLO è un uccello che pesa 10 grammi circa, piccolissimo e laborioso. La sua presenza costante nei cespugli lo rende un emblema di discrezione e laboriosità. È un migratore e simboleggia la resistenza e l’adattamento alle condizioni difficili.
 
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+ROSA è la piena rappresentazione del proprio lato creativo o artistico. Non ha preferenze per i suoi pronomi, qualsiasi cosa va bene. La sua estetica è continuamente in mutazione e ritagli di prodotti artistici prendono posto dei suoi arti, della sua testa o creano nuove diramazioni sempre pronte all’utilizzo. La mutazione avviene quando si prova soddisfazione o quando avviene una crescita artistica. La sua prima apparizione risale a più o meno due anni e mezzo fa, o meglio il risveglio dal suo lungo letargo risale più o meno a quel tempo. È quindi una creatura centenaria, che però ha aperto gli occhi da relativamente poco tempo ed è davvero piccola, ma si prospetta crescere col passare degli anni. Poco a poco inizia a volare, durante i primi anni di risveglio e chissà se potrà iniziare a respirare anche sott’acqua prima o poi. Percepisce il mondo intorno a sé con i cinque sensi e col presentimento che ne esistano tanti altri. Non ama molto la compagnia e non parla, ma emette occasionalmente suoni. Si muove lentamente, in maniera cauta e quasi spaventata, probabilmente da tutti gli altri componenti della sua stessa specie. Attualmente riesce a creare legami duraturi solamente con alcuni animali, successivamente ci si affeziona così tanto da renderli parte del proprio corpo. Quando si muove lascia un piccolo filo di luce. Non mangia, non riposa, non beve, riesce a vivere unicamente grazie alla luce del sole, per questo preferisce gli spazi aperti, ma è possibile trovarlo ovunque, data la sua spiccata curiosità e voglia di scoprire il perché della sua forte paura.
